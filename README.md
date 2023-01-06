@@ -2,7 +2,7 @@
 
 # Auth
 
-Login and Register Authorization
+Login and Register Authorization Datapack for Minecraft
 
 </div>
 
