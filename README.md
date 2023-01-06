@@ -6,9 +6,12 @@ Login and Register Authorization
 
 </div>
 
-## Installation (Windows)
+## Installation
 
-[Download](https://github.com/LucianoBrumer/GitPush/releases/download/v1.0.0/gitpush.exe)
+[Download](https://github.com/LucianoBrumer/Auth/releases/download/release/Auth.zip)
+
+After download the datapack, move it into the folder "datapacks" in your world folder.
+
 
 ## Usage
 Register with:
