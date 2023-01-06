@@ -32,7 +32,7 @@ Change password with (you need to be logged):
 ```
 
 ### Configuration
-To see te settigs menu use te command:
+To see te settings menu use te command:
 ```
 /function auth:settings
 ```
