@@ -8,9 +8,8 @@ Login and Register Authorization
 
 ## Installation
 
-[Download](https://github.com/LucianoBrumer/Auth/releases/download/release/Auth.zip)
 
-After download the datapack, move it into the folder "datapacks" in your world folder.
+After [Download](https://github.com/LucianoBrumer/Auth/releases/download/release/Auth.zip) the datapack, move it into the folder "datapacks" in your world folder.
 
 
 ## Usage
