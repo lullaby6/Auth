@@ -38,7 +38,7 @@ To see te settings menu use te command:
 ```
 
 ### Auth Bypass
-To give a bypass to a player use te command:
+To give a authentication bypass to a player use te command:
 ```
 /tag <player> add auth.bypass
 ```
