@@ -1,3 +1,5 @@
+function mcalc:clearchat
+
 tellraw @s [{"text":"===== ","color":"gray"},{"text":"Auth Settings ","color":"red","bold":true,"hoverEvent":{"action":"show_text","contents":[{"text":"","bold":true}]}},{"text":"=====","color":"gray","hoverEvent":{"action":"show_text","contents":[{"text":"","bold":true}]}}]
 
 tellraw @s {"text":"- Kick:","color":"gray"}
